@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hi, I'm @abdullyahuza
-- 🌱 I’m currently learning flask, SQLAlchemy, React
+- 🌱 I’m currently learning flask, SQLAlchemy
 - 👯 I’m interested in all things backend (with core PHP, nodejs)
 - 📫 How to reach me: yahuzaabdulrazak@gmail.com
 - ⚡ Fun fact: _______________
