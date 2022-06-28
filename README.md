@@ -1,6 +1,6 @@
 - 🙋‍♂️ Hi, I'm @abdullyahuza
-- 🌱 I’m currently learning flask, SQLAlchemy
-- 👯 I'm interested in backend projects (with core PHP, nodejs)
+- 🌱 I’m currently learning Docker, K8s
+- 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
 - ⚡ Fun fact: 😇
 
