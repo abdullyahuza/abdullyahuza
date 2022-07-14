@@ -4,8 +4,6 @@
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
 - ⚡ Fun fact: 😇
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
 ### 🛠  Technologies and tools
 
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor= 8993be" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
