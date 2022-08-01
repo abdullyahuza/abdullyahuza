@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hi, I'm @abdullyahuza
-- 🌱 I’m currently learning React
+- 🌱 I’m currently having fun with TypeScript
 - 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
 - ⚡ Fun fact: 😇
