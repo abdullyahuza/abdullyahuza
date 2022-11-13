@@ -1,8 +1,14 @@
-- 🙋‍♂️ Hi, I'm @abdullyahuza
-- 🌱 On a journey to SE
-- 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
+# 🙋‍♂️ Hi, I'm @abdullyahuza 
+### A Curious Fullstack Developer
+
 - 🚀  Currently working on <a href="https://github.com/abdullyahuza/abucoin"><b>Abucoin</b></a> exploring Blockchain
+
+- 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
+
+- 🌱 On a journey to SE
+
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
+
 - ⚡ Fun fact: 😇
 
 ### 🛠  Technologies and tools
