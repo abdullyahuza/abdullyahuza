@@ -50,3 +50,12 @@
 ### Let's connect
 <p><a href="https://github.com/abdullyahuza" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/abdullyahuza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yahuzaabdulrazak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p>
+<h3 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullyahuza&show_icons=true&locale=en" alt="abdullyahuza"  width="40%"/>
+  &nbsp;&nbsp;
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullyahuza&" alt="abdullyahuza" width="40%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullyahuza&show_icons=true&locale=en&layout=compact" alt="abdullyahuza" />
+</h3>
+</p>
