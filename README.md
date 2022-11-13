@@ -53,9 +53,7 @@
 
 <p>
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullyahuza&show_icons=true&locale=en" alt="abdullyahuza"  width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullyahuza&show_icons=true&locale=en" alt="abdullyahuza" width="60%"/>
   &nbsp;&nbsp;
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullyahuza&" alt="abdullyahuza" width="40%"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullyahuza&show_icons=true&locale=en&layout=compact" alt="abdullyahuza" />
-</h3>
+ </h3>
 </p>
