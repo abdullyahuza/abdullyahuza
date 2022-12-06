@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hi, I'm @abdullyahuza 
 ### A Curious Fullstack Developer
 
-- 🚀  Currently working on <a href="https://github.com/abdullyahuza/abucoin"><b>Abucoin</b></a> exploring Blockchain
+- 🚀  Currently working with <a href="https://technyon.io"><b>Technyon</b></a>
 
 - 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
 
