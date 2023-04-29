@@ -3,7 +3,7 @@
 
 - 🚀  Currently working with <a href="https://technyon.io"><b>Technyon</b></a>
 
-- 👯 I'm interested in backend projects (with core PHP, nodejs, flask)
+- 👯 I'm interested in backend projects (with core PHP, nodejs, Python(flask | Django))
 
 - 🌱 On a journey to SE
 
