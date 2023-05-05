@@ -34,6 +34,7 @@
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758f" alt="MySQL logo" title="Express.js" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFFFFF" alt="Flask logo" title="Flask" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
 
 
 
