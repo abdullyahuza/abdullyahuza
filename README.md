@@ -9,7 +9,7 @@
 
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
 
-- ⚡ Fun fact: 😇 &nbsp; <img src="https://komarev.com/ghpvc/?username=abdullyahuza&label=?&color=brightgreen&style=plastic" alt="A. Yahuza" />
+- ⚡ Fun fact: 😇 &nbsp; <img src="https://komarev.com/ghpvc/?username=abdullyahuza&label=?&color=grey&style=plastic" alt="A. Yahuza" />
 
 ### 🛠  Technologies and tools
 
