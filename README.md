@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi, I'm @abdullyahuza 
+# 🙋‍♂️ Hi, I'm @abdullyahuza
 ### A Curious Fullstack Developer
 
 - 🚀  Currently working with <a href="https://technyon.io"><b>Technyon</b></a>
@@ -9,7 +9,7 @@
 
 - 📫 Reach me: yahuzaabdulrazak@gmail.com
 
-- ⚡ Fun fact: 😇
+- ⚡ Fun fact: 😇 &nbsp; <img src="https://komarev.com/ghpvc/?username=abdullyahuza&label=?&color=brightgreen&style=plastic" alt="A. Yahuza" />
 
 ### 🛠  Technologies and tools
 
