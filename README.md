@@ -19,6 +19,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4B8BBE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 <a name="learning-next"></a>
+&nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
@@ -34,15 +35,17 @@
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758f" alt="MySQL logo" title="Express.js" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFFFFF" alt="Flask logo" title="Flask" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+&nbsp;
 
 
 
 ### 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Electron-282C34?logo=electron&logoColor=61DAFB" alt="Electron logo" title="Electron" height="25" />][tech_tools_anchor]
 &nbsp;
