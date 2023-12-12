@@ -49,6 +49,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Electron-282C34?logo=electron&logoColor=61DAFB" alt="Electron logo" title="Electron" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=61DAFB" alt="Flutter logo" title="Flutter" height="25" />][tech_tools_anchor]
+&nbsp;
 
 [tech_tools_anchor]: #
 [learning_next_anchor]: #
