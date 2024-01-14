@@ -3,7 +3,7 @@
 
 - 🚀  Currently working with <a href="https://technyon.io"><b>Technyon</b></a>
 
-- 👯 I'm interested in backend projects (with core PHP, nodejs, Python[Flask | Django])
+- 👯 I'm interested in backend projects (with core PHP, nodejs, Python[Flask | Django | FastAPI])
 
 - 🌱 On a journey to SE
 
@@ -37,6 +37,8 @@
 [<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFFFFF" alt="Flask logo" title="Flask" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=FFFFFF" alt="FastAPI logo" title="FastAPI" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
