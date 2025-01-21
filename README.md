@@ -44,7 +44,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/Livewire-282C34?logo=livewire&logoColor=61DAFB" alt="Livewire logo" title="Livewire" height="25" />][tech_tools_anchor]
+&nbsp;
 
 
 ### 👾  What I am interested in learning at some point
