@@ -63,3 +63,6 @@
 ### Let's connect
 <p><a href="https://twitter.com/abdullyahuza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yahuzaabdulrazak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullyahuza&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
